@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c36de0ae2805a2e43b3352feff2cda38, type: 3}
+  m_Name: ___AsteraX ProjectInfo___
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: f5b78bd1088c64577b17a22f4e32b913, type: 3}
+  iconMaxWidth: 128
+  title: "<b>\u2014AsteraX\u2014</b>\\nCoding Challenge\\nChapter 37"
+  sections:
+  - heading: "<b>Version 2020.3_1.0</b> \u2013\_October, 2022"
+    text: "This is the first released version of the AsteraX Coding Challenge.\n\n<b>Known
+      Issues:</b>\n\u2022 None \u2013\_Please let us know if you see any."
+    linkText: 
+    url: 
+  - heading: <b>Process</b>
+    text: 'Everything has already been set up in <b>_Scene_AsteraX</b>, so you don''t
+      need to edit the scene at all. Your job is to fill in the methods of the various
+      scripts in the game.
+
+
+      <b>Everything you need to change is in the <i>Scripts
+      (Edit These!!)</i> folder.</b>
+
+
+      I recommend approaching the scripts
+      in the following order. <b>Start with #1 in PlayerShip</b>, and then follow
+      the numbers. At the end of each method you complete, it will tell you if you
+      need to move to another script.'
+    linkText: 
+    url: 
+  - heading: <b>Art Assets</b>
+    text: The ship, asteroids, and planet that you see in this project are from the
+      free StarSparrow asset pack that you can find on the Unity Asset Store. <i>If
+      you wish to post your version of AsteraX publicly, you need to follow this
+      link to the Asset Store and acquire a license.</i>
+    linkText: <b>> Star Sparrow Modular Spaceship</b> by <b>Ebal Studios</b>
+    url: https://assetstore.unity.com/packages/3d/vehicles/space/star-sparrow-modular-spaceship-73167
+  - heading: Unity Window Layout File
+    text: "To use the Unity Window Layout that the book recommends:\n\n1. Choose
+      Layout > Load Layout from file\u2026 from the\n    button in the top-right
+      of the Unity window.\n\n2. Open the <b>UnityWindowLayoutFile.wlt</b> file in
+      the\n    Assets/XnTools folder."
+    linkText: 
+    url: 
+  showDefaultInspector: 0
